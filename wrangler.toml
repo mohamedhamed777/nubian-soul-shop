@@ -1,4 +1,4 @@
-name="nubian-soul-store"
+name="nubian-soul-shop"
 main="src/worker.js"
 compatibility_date="2026-09-05"
 
@@ -9,8 +9,8 @@ run_worker_first=["/api/*","/media/*"]
 
 [[d1_databases]]
 binding="DB"
-database_name="nubian-soul-db"
-database_id="REPLACE_WITH_D1_DATABASE_ID"
+database_name="nubian-soul-store-tshirtes"
+database_id="f4c36665-193c-4c11-bb03-1a05f20523f4"
 
 [[r2_buckets]]
 binding="PRODUCT_IMAGES"
